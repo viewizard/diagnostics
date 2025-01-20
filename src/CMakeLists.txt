@@ -5,5 +5,4 @@ if (CLR_CMAKE_HOST_UNIX)
 endif (CLR_CMAKE_HOST_UNIX)
 
 add_subdirectory(shared)
-add_subdirectory(SOS)
 add_subdirectory(dbgshim)
